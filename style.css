@@ -1,0 +1,26 @@
+body{
+    background-color: #f4f4f4;
+}
+.parent{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin: 0;
+    padding: 10px;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+input{
+    font-size:1.2rem;
+    margin-bottom:1rem;
+    padding:5px;
+} 
+.title{
+    position: absolute;
+    top:10%;
+    padding:5px;
+}
