@@ -5,10 +5,10 @@
 - Unit Tests
 
 ### Question 1 CodePen
-https://codepen.io/Prakhar-Tandon/pen/ExONvXX?editors=1100
+https://codepen.io/Prakhar-Tandon/pen/ExONvXX
 
 ### Question 2 CodePen
-https://codepen.io/Prakhar-Tandon/pen/yLQVobe?editors=1111
+https://codepen.io/Prakhar-Tandon/pen/yLQVobe
 
 ### Setting Up Local Testing.
 - Install Jest. `npm jest`
